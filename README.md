@@ -1,7 +1,7 @@
 # cowList
 
-Directions from Hack Reactor:
 Exercise: CowList
+
 Instructions
 Read this entire document before starting your work. Complete the work in order. There is a hints section at the end.
 
